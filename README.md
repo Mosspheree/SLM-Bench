@@ -88,7 +88,7 @@ Our comprehensive evaluation reveals the following performance characteristics:
 - **Most Robust**: TinyLLaMA maintains 89% accuracy under adversarial conditions
 - **Most Energy Efficient**: MobileLLaMA consumes the least energy per query
 
-## 🧠 Supported Models
+## Supported Models
 
 - **Phi-3-mini**: Microsoft's efficient 3.8B parameter model with 128K context
 - **TinyLLaMA-1.1B**: Compact yet capable language model optimized for efficiency
@@ -97,7 +97,7 @@ Our comprehensive evaluation reveals the following performance characteristics:
 - **MobileBERT**: Optimized BERT variant for mobile deployment
 - **MobileLLaMA**: Mobile-optimized LLaMA variant for edge devices
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 LLMComp2025/
@@ -299,7 +299,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This work was conducted as part of LLMComp2025, focusing on advancing the state of small language model optimization for practical deployment scenarios. Special thanks to the open-source community for providing the foundational models and tools that made this research possible.
 
-## 📚 Citation
+## Citation
 
 If you use this framework in your research, please cite:
 

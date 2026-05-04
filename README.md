@@ -11,7 +11,7 @@ A comprehensive framework for evaluating, optimizing, and benchmarking Small Lan
 - **Robust Evaluation**: Includes noise injection and adversarial testing to measure model robustness
 - **Automated Model Comparison**: Side-by-side comparison of all models with detailed performance summaries
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -123,7 +123,7 @@ LLMComp2025/
 └── results_baseline_comparison/ # Baseline comparison results
 ```
 
-## 📈 Evaluation Framework
+## Evaluation Framework
 
 ### Core Evaluation Metrics
 - **Accuracy**: Classification performance on clean test data
@@ -145,7 +145,7 @@ LLMComp2025/
 - Adversarial robustness evaluation
 - Cross-dataset generalization testing
 
-## 🔧 Usage Examples
+## Usage Examples
 
 ### Evaluate All Models
 ```bash
@@ -203,7 +203,7 @@ Our energy analysis across different hardware platforms shows:
 - **Least Robust**: ALBERT shows 85.3% retention under adversarial conditions
 - **Noise Types**: Character substitution has minimal impact vs. word-level corruption
 
-## 🛠️ Advanced Features
+## Advanced Features
 
 ### Custom Model Integration
 ```python
@@ -250,7 +250,7 @@ See `requirements.txt` for complete list. Key dependencies:
 - scikit-learn >= 1.2.0
 - pandas >= 2.0.0
 
-## 🚀 Reproducibility
+## Reproducibility
 
 ### Running the Complete Evaluation
 ```bash
@@ -274,7 +274,7 @@ ls onnx_results_usecase3/
 - Energy consumption analysis
 - Individual model evaluation reports
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
